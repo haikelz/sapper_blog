@@ -99,7 +99,7 @@
 
   <script src="https://giscus.app/client.js"
         data-repo="haikelz/sapper_blog"
-        data-repo-id="[ENTER REPO ID HERE]"
+        data-repo-id="R_kgDOGy47pw"
         data-category="[ENTER CATEGORY NAME HERE]"
         data-category-id="[ENTER CATEGORY ID HERE]"
         data-mapping="pathname"
