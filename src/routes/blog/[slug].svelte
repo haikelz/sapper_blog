@@ -98,7 +98,7 @@
   <br>
 
   <script src="https://giscus.app/client.js"
-        data-repo="haikelz/svelte_blog"
+        data-repo="haikelz/sapper_blog"
         data-repo-id="[ENTER REPO ID HERE]"
         data-category="[ENTER CATEGORY NAME HERE]"
         data-category-id="[ENTER CATEGORY ID HERE]"
