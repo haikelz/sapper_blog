@@ -120,6 +120,11 @@ pre code {
   padding: 0;
 }
 
+pre[class*="language-"] {
+  background: #282A36;
+  padding: 0.6em 1em;
+}
+
 blockquote {
   border-left: 4px solid #cccccc;
   font-size: 1.4em;
