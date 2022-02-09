@@ -65,5 +65,4 @@
 <nav>
   <a class='{segment === "about" ? "selected" : ""}' href='about'>about</a>
   <a rel=prefetch class='{segment === "blog" ? "selected" : ""}' href='blog'>blog</a>
-  <a><Dark><Far icon={faMoon} /></Dark></a>
 </nav>
