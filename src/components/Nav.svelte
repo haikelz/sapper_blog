@@ -1,7 +1,7 @@
 <script>
-  import Far from 'svelte-fa';
-  import { faMoon } from '@fortawesome/free-solid-svg-icons';
-  import Dark from './Dark.svelte';
+  // import Far from 'svelte-fa';
+  // import { faMoon } from '@fortawesome/free-solid-svg-icons';
+  // import Dark from './Dark.svelte';
   export let segment;
 </script>
 
